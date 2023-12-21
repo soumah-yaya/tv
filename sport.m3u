@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/pxFamLr.png",ADO TV (720p)
-https://stream01.adotv-fm.bj/ado-tv-live/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/wULpnYR.png",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PThJPu2.png",AntenaSport (720p) [Not 24/7]
@@ -33,18 +31,12 @@ https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 (1080p)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/07ki2df.png",CnAr Deportes (1440p)
-https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/bBnWaq2.png",Contacto Deportivo (720p) [Not 24/7]
 https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/J2Ky5OO.png",DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/xKJoN8L.png",DSTV (720p)
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/H2TTn7t.png",Dubai Racing 2 (1080p)
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vg4fxmc.png",Dubai Racing 3 (1080p)
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/BpcV8jS.png",Dubai Racing (1080p)
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Poxw8lG.png",Dubai Sports 1 (1080p)
@@ -85,8 +77,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://insighttv-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/FUTqh2L.png",Inter TV (720p)
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 group-title="Culture;Sports" tvg-logo="https://i.ibb.co/BjpLqbN/ISHUSHO-TV-LOGO-orange.png",Ishusho TV (720p) [Not 24/7]
-https://tv.livebcm.com:3425/stream/play.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ONKNOAp.png",KSA Sports 1 (1080p) [Not 24/7]
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/v8ULLqg.png",KSA Sports 2 (1080p) [Not 24/7]
@@ -101,12 +91,8 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/QhdxNsB.png",MMA-TV.com (576p)
 https://tbs01-edge11.itdc.ge/m1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/z854PC3.png",MNB Sport (576p)
-https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/SLrjImc.png",More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/1omi7p8.png",Oman Sports TV (1080p) [Not 24/7]
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7JhaEW5.png",One Golf (720p)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7Xndgxk.png",Ovacion TV (720p) [Not 24/7]
@@ -171,8 +157,6 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/TwIe4lK.png",Turf Móvil (720p)
 https://janus.tvturf.cl/playlist/stream.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png",Türkmenistan Sport (406p) [Not 24/7]
-https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XcrkfGh.png",TVMAX (720p)
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/30ZoF75.png",TVS Boxing (360p)
@@ -187,12 +171,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/8hC4PfF.png",TVS Women Sports (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/kzZHsLp.png",Viaplay xtra (720p)
-https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/6EGV2eo.png",Vinx TV (1080p)
 https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/5WNBFmp.png",WAPA-DT2 (WAPA Deportes) (1080p)
-https://live.field59.com/wapa/wapa2/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/BKaEtqL.png",Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/NJsRFud.png",Беларусь 5 (1080p) [Not 24/7]
