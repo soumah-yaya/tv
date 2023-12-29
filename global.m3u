@@ -491,5 +491,13 @@ http://moobl.ru/hls/Mir_basketbola.m3u8
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/L9jTieL.png",Старт Триумф (1080p) [Geo-blocked]
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ORCu0w0.png",УТРК Спорт (720p)
-https://64e5ed58c00d4.streamlock.net/live/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports" ,TNT
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="Sports" ,TNTSPORT1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="Sports" ,TNTSPORT2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="Sports" ,TNTSPORT4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="Sports" ,TNTSPORT5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8

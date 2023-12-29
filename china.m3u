@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/zagVLQH.png",ABN China (720p)
 https://rtmp2.abnvideos.com/hls/abnchina.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV1-综合
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV2-财经
 http://222.174.182.142:31028/hls/241/index.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV3-综艺
@@ -31,6 +33,8 @@ http://222.174.182.142:31028/hls/249/index.m3u8
 http://222.174.182.142:31028/hls/250/index.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV15-音乐
 http://222.174.182.142:31028/hls/251/index.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV16-奥林匹克
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV17-农业农村
 http://222.174.182.142:31028/hls/252/index.m3u8
 #EXTINF:-1 group-title="Undefined" ,CGTN
@@ -39,6 +43,12 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/BwhledK.png",CGTN Français (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 group-title="Undefined" ,山东卫视
+http://221.2.146.228:8888/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 group-title="Undefined" ,山东教育卫视
+http://221.2.146.228:8888/newlive/live/hls/55/live.m3u8
+#EXTINF:-1 group-title="Undefined" ,青岛城阳
+http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8
 #EXTINF:-1 group-title="Undefined" ,北京卫视
 http://223.78.116.132:882/hls/40/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WqM6xnF.png" ,东方卫视
