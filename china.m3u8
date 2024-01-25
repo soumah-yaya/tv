@@ -1,64 +1,98 @@
 #EXTM3U
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/zagVLQH.png",ABN China (720p)
-https://rtmp2.abnvideos.com/hls/abnchina.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV1-综合
+http://121.19.134.2:808/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV2-财经
-http://222.174.182.142:31028/hls/241/index.m3u8
+http://121.19.134.2:808/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV3-综艺
-http://222.174.182.142:31028/hls/301/index.m3u8
+https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV3-综艺
+http://121.19.134.2:808/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV4-国际
-http://222.174.182.142:31028/hls/242/index.m3u8
+http://121.19.134.2:808/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV4-国际
+https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV5-体育
-http://222.174.182.142:31028/hls/302/index.m3u8
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV5-综艺
+http://121.19.134.2:808/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV5+
-http://222.174.182.142:31028/hls/243/index.m3u8
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV5+
+http://121.19.134.2:808/tsfile/live/0018_1.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV-风云足球
+http://121.19.134.2:808/tsfile/live/1037_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV6-电影
-http://222.174.182.142:31028/hls/303/index.m3u8
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV6-电影
+http://121.19.134.2:808/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV7-国防军事
-http://222.174.182.142:31028/hls/244/index.m3u8
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV7-国防军事
+http://121.19.134.2:808/tsfile/live/0007_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV8-电视剧
-http://222.174.182.142:31028/hls/304/index.m3u8
+https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV8-电视剧
+http://121.19.134.2:808/tsfile/live/0008_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV9-记录
-http://222.174.182.142:31028/hls/245/index.m3u8
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV9-记录
+http://121.19.134.2:808/tsfile/live/0009_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV10-科教
-http://222.174.182.142:31028/hls/246/index.m3u8
+http://121.19.134.2:808/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV11-戏曲
-http://222.174.182.142:31028/hls/247/index.m3u8
+http://121.19.134.2:808/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV12-社会与法
-http://222.174.182.142:31028/hls/248/index.m3u8
+http://121.19.134.2:808/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV12-社会与法
+http://ictv.91tv.top:9901/tsfile/live/0122_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV13-新闻
-http://222.174.182.142:31028/hls/249/index.m3u8
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV13-新闻
+http://121.19.134.2:808/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV14-少儿
-http://222.174.182.142:31028/hls/250/index.m3u8
+https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV14-少儿
+http://121.19.134.2:808/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CCTV15-音乐
-http://222.174.182.142:31028/hls/251/index.m3u8
-#EXTINF:-1 group-title="Undefined" ,CCTV17-农业农村
-http://222.174.182.142:31028/hls/252/index.m3u8
+http://121.19.134.2:808/tsfile/live/1036_1.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV15-音乐
+http://121.19.134.2:808/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="Undefined" ,CGTN
+http://121.19.134.2:808/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="Undefined" ,CCTV17-农业农村
+http://121.19.134.2:808/tsfile/live/0017_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,CGTN法语
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/BwhledK.png",CGTN Français (576p) [Not 24/7]
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 group-title="Undefined" ,北京卫视
-http://223.78.116.132:882/hls/40/index.m3u8
+http://121.19.134.2:808/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WqM6xnF.png" ,东方卫视
-http://223.78.116.132:882/hls/24/index.m3u8 
+http://121.19.134.2:808/tsfile/live/1022_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,东南卫视
 http://222.174.182.142:31028/hls/261/index.m3u8 
+#EXTINF:-1 group-title="Undefined" ,辽宁卫视
+http://121.19.134.2:808/tsfile/live/1017_1.m3u8
+#EXTINF:-1 group-title="Undefined" ,辽宁卫视
+http://117.174.81.63:50080/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 group-title="Undefined" ,天津卫视
+http://121.19.134.2:808/tsfile/live/1016_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,云南卫视
 http://jferp.cloud:9901/tsfile/live/1040_1.m3u8 
 #EXTINF:-1 group-title="Undefined" ,四川卫视
 http://jferp.cloud:9901/tsfile/live/1035_1.m3u8 
 #EXTINF:-1 group-title="Undefined" ,吉林卫视
-http://223.78.116.132:882/hls/30/index.m3u8 
+http://121.19.134.2:808/tsfile/live/1025_1.m3u8 
 #EXTINF:-1 group-title="Undefined" ,安徽卫视
-http://222.174.182.142:31028/hls/255/index.m3u8 
+http://121.19.134.2:808/tsfile/live/1011_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,天津卫视
 http://222.174.182.142:31028/hls/257/index.m3u8 
 #EXTINF:-1 group-title="Undefined" ,广西卫视
 http://223.78.116.132:882/hls/64/index.m3u8 
 #EXTINF:-1 group-title="Undefined" ,广东卫视
-http://222.174.182.142:31028/hls/258/index.m3u8 
+http://121.19.134.2:808/tsfile/live/1024_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,河北卫视
 http://222.223.158.136:50009/hls/53/index.m3u8
 #EXTINF:-1 group-title="Undefined" ,河南卫视
@@ -66,25 +100,27 @@ http://117.158.112.72:9877/hls/17/index.m3u8
 #EXTINF:-1 group-title="Undefined" ,江西卫视
 http://222.174.182.142:31028/hls/262/index.m3u8 
 #EXTINF:-1 group-title="Undefined" ,江苏卫视
-http://117.158.112.72:9877/hls/31/index.m3u8 
+http://121.19.134.2:808/tsfile/live/1012_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,浙江卫视
-http://223.78.116.132:882/hls/11/index.m3u8 
+http://121.19.134.2:808/tsfile/live/1011_1.m3u8 
 #EXTINF:-1 group-title="Undefined" ,浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="Undefined" ,海南卫视
-http://112.102.214.218:16667/hls/63/index.m3u8 
+http://121.19.134.2:808/tsfile/live/1026_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,深圳卫视
 http://222.174.182.142:31028/hls/264/index.m3u8 
+#EXTINF:-1 group-title="Undefined" ,山东卫视
+http://121.19.134.2:808/tsfile/live/1018_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,湖北卫视
-http://222.174.182.142:31028/hls/256/index.m3u8 
+http://121.19.134.2:808/tsfile/live/1021_1.m3u8 
 #EXTINF:-1 group-title="Undefined" ,湖南卫视
 http://222.174.182.142:31028/hls/254/index.m3u8 
 #EXTINF:-1 group-title="Undefined" ,甘肃卫视
 http://jferp.cloud:9901/tsfile/live/1041_1.m3u8 
 #EXTINF:-1 group-title="Undefined" ,重庆卫视
 http://222.174.182.142:31028/hls/266/index.m3u8 
-#EXTINF:-1 group-title="Undefined" ,辽宁卫视
-http://222.174.182.142:31028/hls/259/index.m3u8 
+#EXTINF:-1 group-title="Undefined" ,河北杂技
+http://121.19.134.2:808/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="Undefined" ,黑龙江卫视
 http://222.174.182.142:31028/hls/260/index.m3u8 
 #EXTINF:-1 group-title="Undefined" ,贵州卫视
