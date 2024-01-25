@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1 group-title="Undefined",CCTV1-综合
+http://121.19.134.2:808/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV2-财经
+http://121.19.134.2:808/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV3-综艺
+https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV3-综艺
+http://121.19.134.2:808/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV4-国际
+http://121.19.134.2:808/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV5-体育
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV5-综艺
+http://121.19.134.2:808/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV5+
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV5+
+http://121.19.134.2:808/tsfile/live/0018_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV-风云足球
+http://121.19.134.2:808/tsfile/live/1037_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV6-电影
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV6-电影
+http://121.19.134.2:808/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV7-国防军事
+https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV7-国防军事
+http://121.19.134.2:808/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV8-电视剧
+https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV8-电视剧
+http://121.19.134.2:808/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV9-记录
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV9-记录
+http://121.19.134.2:808/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV10-科教
+http://121.19.134.2:808/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV11-戏曲
+http://121.19.134.2:808/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV12-社会与法
+http://121.19.134.2:808/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV13-新闻
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV13-新闻
+http://121.19.134.2:808/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV14-少儿
+https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV14-少儿
+http://121.19.134.2:808/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV15-音乐
+http://121.19.134.2:808/tsfile/live/1036_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV15-音乐
+http://121.19.134.2:808/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="Undefined",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="Undefined",CGTN
+http://121.19.134.2:808/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="Undefined",CCTV17-农业农村
+http://121.19.134.2:808/tsfile/live/0017_1.m3u8
+#EXTINF:-1 group-title="Undefined",CGTN法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/BwhledK.png",CGTN Français (576p) [Not 24/7]
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 group-title="Undefined",北京卫视
+http://121.19.134.2:808/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WqM6xnF.png",东方卫视
+http://121.19.134.2:808/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="Undefined",辽宁卫视
+http://121.19.134.2:808/tsfile/live/1017_1.m3u8
+#EXTINF:-1 group-title="Undefined",辽宁卫视
+http://117.174.81.63:50080/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 group-title="Undefined",天津卫视
+http://121.19.134.2:808/tsfile/live/1016_1.m3u8
+#EXTINF:-1 group-title="Undefined",吉林卫视
+http://121.19.134.2:808/tsfile/live/1025_1.m3u8
+#EXTINF:-1 group-title="Undefined",安徽卫视
+http://121.19.134.2:808/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="Undefined",广西卫视
+http://223.78.116.132:882/hls/64/index.m3u8
+#EXTINF:-1 group-title="Undefined",广东卫视
+http://121.19.134.2:808/tsfile/live/1024_1.m3u8
+#EXTINF:-1 group-title="Undefined",河北卫视
+http://222.223.158.136:50009/hls/53/index.m3u8
+#EXTINF:-1 group-title="Undefined",河南卫视
+http://117.158.112.72:9877/hls/17/index.m3u8
+#EXTINF:-1 group-title="Undefined",江苏卫视
+http://121.19.134.2:808/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="Undefined",海南卫视
+http://121.19.134.2:808/tsfile/live/1026_1.m3u8
+#EXTINF:-1 group-title="Undefined",山东卫视
+http://121.19.134.2:808/tsfile/live/1018_1.m3u8
+#EXTINF:-1 group-title="Undefined",湖北卫视
+http://121.19.134.2:808/tsfile/live/1021_1.m3u8
+#EXTINF:-1 group-title="Undefined",河北杂技
+http://121.19.134.2:808/tsfile/live/1006_1.m3u8
+#EXTINF:-1 group-title="UK",凤凰资讯台
+http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
+#EXTINF:-1 group-title="UK",凤凰资讯台
+http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
+#EXTINF:-1 group-title="UK",中天新闻
+http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+#EXTINF:-1 group-title="UK",中天新闻
+http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+#EXTINF:-1 group-title="UK",TVBS新闻
+http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24
+http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 group-title="UK" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png",Al Jazeera English
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/t35zhM9.png",L'Equipe 21 TV
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News Channel
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 group-title="Entertainment",TLC
+http://198.16.100.90:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
+#EXTINF:-1 group-title="News",新加坡CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live 10 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/YWIJdai.png",Africa 24 (540p)
+https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/jy3UfCe.png",CBS News Baltimore (720p)
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews French
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+#EXTINF:-1 group-title="News (EN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png",RT France (1080p) [Geo-blocked]
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 group-title="Documentaries (EN)" tvg-logo="https://i.imgur.com/ZEi1Wgn.png",RT Documentary English Ⓖ
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="News (EN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-news-live-hz-us.png",ABC News Live
+https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+#EXTINF:-1 group-title="Undefined",Animal Planet
+http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 (1080p)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/bBnWaq2.png",Contacto Deportivo (720p) [Not 24/7]
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/J2Ky5OO.png",DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/xKJoN8L.png",DSTV (720p)
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/bgQ6kz7.png",EDGEsport (1080p)
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/EsczO2H.png",ERT Sports 1 (1080p) [Geo-blocked]
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/512px-Extreme_Sports_Channel.svg.png",Extreme Sports
+http://moobl.ru/hls/Extreme_sports.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/vlKPZHR.png",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/YOr1Oac.png",FTV (720p)
+https://master.tucableip.com/ftv/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/qFNRJLb.png",fubo Sports Network (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/I8mviBy.png",FUEL TV (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/01Jsa2Z.png",Golf Network (720p)
+http://203.162.235.41:28107
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XO8u1V7.png",IMPACT Wrestling (1080p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7k8ar1Z.png",M-Net Sport (720p)
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7JhaEW5.png",One Golf (720p)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7Xndgxk.png",Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/736QREy.png",Pac 12 Insider (1080p)
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/UDJ0P5Q.png",QazSport (480p) [Geo-blocked]
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Q55HX1O.png",Racing.com (720p)
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/5pMo7dL.png",Real Madrid
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/BcN8B3D.png",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PGm944g.png",San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/S6qgwLG.png",Ski TV (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/9SD40uH.png",SOS Kanal Plus (720p)
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/GT0Yi2T.png",Swerve Sports (1080p)
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/b0H5f62.png",Teledeporte (1080p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ELXmaqg.png",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XcrkfGh.png",TVMAX (720p)
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Movie",贝爷影厅
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 group-title="Movie",douyu8
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 group-title="Movie",douyu9
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 group-title="Movie",douyu15
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 group-title="Movie",douyu19
+http://epg.112114.xyz/douyu/747764
+#EXTINF:-1 group-title="Movie",douyu20
+http://epg.112114.xyz/douyu/52787
+#EXTINF:-1 group-title="Movie",douyu24
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1 group-title="Movie",douyu25
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 group-title="Movie",douyu28
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1 group-title="Movie",douyu44
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1 group-title="Movie",欧美大片1
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 group-title="Movie",欧美大片2
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1 group-title="Movie",欧美大片3
+http://epg.112114.xyz/douyu/9249162
