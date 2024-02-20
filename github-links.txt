@@ -1,12 +1,13 @@
-https://raw.githubusercontent.com/soumah-yaya/mytele/main/adult.m3u
+https://raw.githubusercontent.com/soumah-yaya/tv/main/adult.m3u
 
-https://raw.githubusercontent.com/soumah-yaya/mytele/main/china.m3u
+https://raw.githubusercontent.com/soumah-yaya/tv/main/china.m3u
 
-https://raw.githubusercontent.com/soumah-yaya/mytele/main/france.m3u
+https://raw.githubusercontent.com/soumah-yaya/tv/main/france.m3u
 
-https://raw.githubusercontent.com/soumah-yaya/mytele/main/global.m3u
+https://raw.githubusercontent.com/soumah-yaya/tv/main/global.m3u
+https://raw.githubusercontent.com/soumah-yaya/tv/main/index.m3u
 
-https://raw.githubusercontent.com/soumah-yaya/mytele/main/sport.m3u
+https://raw.githubusercontent.com/soumah-yaya/tv/main/sport.m3u
 
 
 https://gitee.com/soumah-yaya/iptv/raw/main/index.m3u
